@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArohiniAshokan
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Big data Processing using Hadoop and Spark.
-- 💞️ I’m looking to collaborate on AI projects.
+- 🌱 My skills - Python, EDA, Tableau, PowerBI, ML,Hadoop and Spark.
+- 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me : http://www.linkedin.com/in/arohini-ashokan-9153b1254
 
 <!---
